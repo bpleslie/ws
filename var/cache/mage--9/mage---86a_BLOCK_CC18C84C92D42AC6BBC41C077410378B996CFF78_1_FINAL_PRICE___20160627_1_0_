@@ -1,0 +1,30 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1467073760;s:6:"expire";i:1467077360;s:4:"tags";s:65:"86a_BLOCK_HTML,86a_CATALOG_PRODUCT_1,86a_CATALOG_PRODUCT,86a_MAGE";}
+<div class="price-box price-final_price" data-role="priceBox" data-product-id="1">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="product-price-1"                data-price-amount="69.95"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$69.95</span>    </span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-1"                data-price-amount="89.95"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$89.95</span>    </span>
+        </span>
+    </span>
+
+</div>

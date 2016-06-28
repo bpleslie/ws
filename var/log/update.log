@@ -1,0 +1,1411 @@
+[2016-06-27 02:55:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 02:56:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 02:57:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 02:58:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 02:59:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:00:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:01:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:02:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:03:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:04:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:05:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:06:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:07:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:08:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:09:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:10:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:11:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:12:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:13:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:14:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:15:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:16:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:17:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:18:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:19:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:20:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:21:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:22:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:23:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:24:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:25:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:26:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:27:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:28:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:29:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:30:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:31:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:32:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:33:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:34:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:35:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:36:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:37:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:38:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:39:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:40:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:41:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:42:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:43:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:44:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:45:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:46:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:47:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:48:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:49:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:50:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:51:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:52:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:53:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:54:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:55:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:56:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:57:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:58:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 03:59:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:00:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:01:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:02:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:03:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:04:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:05:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:06:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:07:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:08:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:09:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:10:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:11:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:12:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:13:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:14:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:15:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:16:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:17:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:18:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:19:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:20:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:21:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:22:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:23:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:24:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:25:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:26:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:27:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:28:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:29:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:30:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:31:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:32:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:33:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:34:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:35:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:36:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:37:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:38:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:39:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:40:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:41:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:42:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:43:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:44:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:45:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:46:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:47:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:48:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:49:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:50:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:51:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:52:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:53:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:54:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:55:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:56:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:57:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:58:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 04:59:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:00:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:01:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:02:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:03:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:04:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:05:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:06:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:07:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:08:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:09:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:10:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:11:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:12:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:13:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:14:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:15:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:16:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:17:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:18:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:19:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:20:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:21:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:22:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:23:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:24:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:25:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:26:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:27:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:28:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:29:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:30:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:31:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:32:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:33:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:34:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:35:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:36:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:37:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:38:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:39:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:40:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:41:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:42:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:43:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:44:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:45:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:46:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:47:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:48:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:49:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:50:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:51:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:52:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:53:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:54:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:55:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:56:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:57:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:58:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 05:59:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:00:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:01:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:02:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:03:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:04:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:05:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:06:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:07:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:08:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:09:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:10:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:11:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:12:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:13:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:14:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:15:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:16:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:17:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:18:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:19:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:20:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:21:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:22:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:23:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:24:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:25:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:26:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:27:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:28:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:29:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:30:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:31:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:32:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:33:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:34:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:35:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:36:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:37:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:38:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:39:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:40:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:41:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:42:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:43:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:44:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:45:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:46:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:47:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:48:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:49:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:50:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:51:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:52:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:53:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:54:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:55:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:56:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:57:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:58:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 06:59:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:00:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:01:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:02:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:03:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:04:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:05:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:06:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:07:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:08:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:09:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:10:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:11:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:12:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:13:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:14:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:15:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:16:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:17:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:18:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:19:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:20:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:21:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:22:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:23:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:24:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:25:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:26:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:27:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:28:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:29:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:30:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:31:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:32:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:33:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:34:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:35:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:36:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:37:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:38:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:39:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:40:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:41:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:42:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:43:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:44:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:45:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:46:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:47:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:48:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:49:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:50:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:51:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:52:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:53:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:54:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:55:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:56:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:57:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:58:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 07:59:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:00:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:01:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:02:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:03:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:04:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:05:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:06:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:07:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:08:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:09:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:10:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:11:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:12:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:13:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:14:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:15:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:16:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:17:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:18:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:19:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:20:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:21:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:22:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:23:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:24:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:25:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:26:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:27:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:28:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:29:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:30:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:31:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:32:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:33:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:34:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:35:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:36:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:37:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:38:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:39:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:40:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:41:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:42:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:43:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:44:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:45:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:46:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:47:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:48:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:49:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:50:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:51:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:52:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:53:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:54:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:55:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:56:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:57:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:58:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 08:59:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:00:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:01:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:02:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:03:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:04:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:05:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:06:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:07:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:08:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:09:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:10:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:11:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:12:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:13:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:14:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:15:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:16:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:17:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:18:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:19:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:20:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:21:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:22:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:23:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:24:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:25:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:26:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:27:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:28:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:29:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:30:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:31:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:32:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:33:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:34:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:35:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:36:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:37:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:38:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:39:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:40:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:41:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:42:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:43:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:44:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:45:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:46:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:47:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:48:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:49:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:50:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:51:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:52:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:53:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:54:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:55:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:56:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:57:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:58:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 09:59:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:00:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:01:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:02:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:03:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:04:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:05:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:06:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:07:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:08:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:09:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:10:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:11:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:12:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:13:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:14:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:15:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:16:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:17:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:18:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:19:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:20:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:21:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:22:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:23:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:24:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:25:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:26:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:27:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:28:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:29:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:30:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:31:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:32:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:33:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:34:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:35:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:36:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:37:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:38:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:39:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:40:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:41:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:42:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:43:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:44:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:45:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:46:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:47:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:48:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:49:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:50:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:51:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:52:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:53:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:54:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:55:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:56:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:57:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:58:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 10:59:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:00:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:01:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:02:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:03:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:04:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:05:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:06:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:07:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:08:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:09:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:10:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:11:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:12:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:13:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:14:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:15:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:16:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:17:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:18:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:19:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:20:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:21:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:22:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:23:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:24:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:25:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:26:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:27:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:28:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:29:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:30:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:31:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:32:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:33:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:34:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:35:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:36:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:37:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:38:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:39:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:40:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:41:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:42:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:43:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:44:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:45:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:46:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:47:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:48:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:49:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:50:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:51:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:52:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:53:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:54:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:55:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:56:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:57:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:58:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 11:59:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:00:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:01:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:02:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:03:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:04:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:05:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:06:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:07:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:08:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:09:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:10:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:11:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:12:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:13:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:14:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:15:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:16:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:17:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:18:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:19:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:20:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:21:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:22:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:23:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:24:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:25:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:26:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:27:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:28:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:29:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:30:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:31:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:32:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:33:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:34:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:35:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:36:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:37:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:38:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:39:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:40:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:41:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:42:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:43:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:44:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:45:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:46:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:47:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:48:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:49:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:50:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:51:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:52:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:53:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:54:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:55:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:56:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:57:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:58:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 12:59:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:00:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:01:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:02:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:03:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:04:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:05:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:06:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:07:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:08:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:09:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:10:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:11:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:12:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:13:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:14:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:15:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:16:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:17:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:18:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:19:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:20:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:21:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:22:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:23:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:24:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:25:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:26:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:27:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:28:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:29:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:30:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:31:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:32:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:33:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:34:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:35:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:36:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:37:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:38:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:39:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:40:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:41:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:42:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:43:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:44:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:45:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:46:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:47:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:48:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:49:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:50:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:51:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:52:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:53:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:54:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:55:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:56:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:57:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:58:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 13:59:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:00:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:01:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:02:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:03:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:04:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:05:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:06:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:07:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:08:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:09:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:10:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:11:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:12:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:13:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:14:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:15:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:16:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:17:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:18:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:19:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:20:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:21:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:22:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:23:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:24:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:25:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:26:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:27:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:28:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:29:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:30:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:31:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:32:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:33:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:34:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:35:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:36:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:37:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:38:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:39:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:40:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:41:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:42:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:43:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:44:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:45:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:46:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:47:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:48:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:49:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:50:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:51:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:52:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:53:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:54:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:55:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:56:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:57:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:58:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 14:59:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:00:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:01:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:02:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:03:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:04:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:05:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:06:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:07:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:08:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:09:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:10:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:11:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:12:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:13:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:14:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:15:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:16:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:17:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:18:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:19:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:20:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:21:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:22:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:23:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:24:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:25:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:26:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:27:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:28:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:29:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:30:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:31:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:32:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:33:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:34:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:35:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:36:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:37:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:38:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:39:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:40:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:41:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:42:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:43:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:44:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:45:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:46:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:47:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:48:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:49:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:50:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:51:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:52:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:53:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:54:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:55:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:56:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:57:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:58:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 15:59:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:00:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:01:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:02:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:03:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:04:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:05:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:06:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:07:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:08:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:09:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:10:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:11:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:12:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:13:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:14:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:15:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:16:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:17:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:18:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:19:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:20:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:21:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:22:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:23:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:24:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:25:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:26:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:27:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:28:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:29:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:30:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:31:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:32:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:33:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:34:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:35:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:36:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:37:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:38:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:39:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:40:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:41:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:42:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:43:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:44:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:45:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:46:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:47:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:48:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:49:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:50:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:51:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:52:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:53:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:54:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:55:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:56:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:57:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:58:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 16:59:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:00:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:01:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:02:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:03:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:04:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:05:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:06:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:07:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:08:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:09:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:10:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:11:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:12:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:13:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:14:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:15:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:16:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:17:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:18:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:19:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:20:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:21:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:22:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:23:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:24:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:25:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:26:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:27:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:28:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:29:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:30:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:31:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:32:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:33:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:34:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:35:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:36:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:37:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:38:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:39:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:40:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:41:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:42:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:43:02] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:44:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:45:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:46:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:47:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:48:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:49:01] update-cron.ERROR: Cron readiness check failure! Found non-writable paths: 	/var/www/ws/var/.htaccess [] []
+[2016-06-27 17:51:02] update-cron.WARNING: Update is already in progress. [] []
+[2016-06-27 17:56:01] update-cron.ERROR: "/var/www/ws/var/.update_in_progress.flag" cannot be created. [] []
+[2016-06-27 17:57:01] update-cron.ERROR: "/var/www/ws/var/.update_in_progress.flag" cannot be created. [] []
+[2016-06-27 17:57:02] update-cron.INFO: Job "maintenance_mode {"enable":true}" has been started [] []
+[2016-06-27 17:57:02] update-cron.INFO: Magento maintenance mode is enabled. [] []
+[2016-06-27 17:57:02] update-cron.INFO: Job "maintenance_mode {"enable":true}" has successfully completed [] []
+[2016-06-27 17:58:01] update-cron.ERROR: "/var/www/ws/var/.update_in_progress.flag" cannot be created. [] []
+[2016-06-27 21:58:01] setup-cron.INFO: Job "setup:cache:disable []" has started  [] []
+Changed cache status:
+                        config: 1 -> 0
+                        layout: 1 -> 0
+                    block_html: 1 -> 0
+                   collections: 1 -> 0
+                    reflection: 1 -> 0
+                        db_ddl: 1 -> 0
+                           eav: 1 -> 0
+         customer_notification: 1 -> 0
+                     full_page: 1 -> 0
+            config_integration: 1 -> 0
+        config_integration_api: 1 -> 0
+                     translate: 1 -> 0
+             config_webservice: 1 -> 0
+[2016-06-27 21:58:01] setup-cron.INFO: Job "setup:cache:disable []" has been successfully completed [] []
+[2016-06-27 17:59:01] update-cron.ERROR: "/var/www/ws/var/.update_in_progress.flag" cannot be created. [] []
+[2016-06-27 17:59:01] update-cron.INFO: Job "update {"components":[{"name":"yotpo/module-yotpo","version":"2.0.4"}]}" has been started [] []
+[2016-06-27 17:59:01] update-cron.INFO: Starting composer update... [] []
+[2016-06-27 17:59:02] update-cron.INFO: ./composer.json has been updated  [] []
+[2016-06-27 17:59:32] update-cron.INFO: Loading composer repositories with package information Updating dependencies (including require-dev)   - Removing fabpot/php-cs-fixer (v1.11.4) Removing Fabpot/PhpCsFixer   - Removing symfony/stopwatch (v3.1.1) Removing Symfony/Stopwatch   - Installing yotpo/module-yotpo (2.0.4)     Downloading: Connecting...    Downloading: 0%    Downloading: 45%    Downloading: 100%  Writing lock file Generating autoload files  [] []
+[2016-06-27 17:59:32] update-cron.INFO: Composer update completed successfully [] []
+[2016-06-27 17:59:32] update-cron.INFO: Job "update {"components":[{"name":"yotpo/module-yotpo","version":"2.0.4"}]}" has successfully completed [] []
+[2016-06-27 22:00:02] setup-cron.INFO: Job "setup:cache:enable ["config layout block_html collections reflection db_ddl eav customer_notification full_page config_integration config_integration_api translate config_webservice"]" has started  [] []
+Changed cache status:
+                        config: 0 -> 1
+                        layout: 0 -> 1
+                    block_html: 0 -> 1
+                   collections: 0 -> 1
+                    reflection: 0 -> 1
+                        db_ddl: 0 -> 1
+                           eav: 0 -> 1
+         customer_notification: 0 -> 1
+                     full_page: 0 -> 1
+            config_integration: 0 -> 1
+        config_integration_api: 0 -> 1
+                     translate: 0 -> 1
+             config_webservice: 0 -> 1
+Cleaned cache types:
+config
+layout
+block_html
+collections
+reflection
+db_ddl
+eav
+customer_notification
+full_page
+config_integration
+config_integration_api
+translate
+config_webservice
+[2016-06-27 22:00:02] setup-cron.INFO: Job "setup:cache:enable ["config layout block_html collections reflection db_ddl eav customer_notification full_page config_integration config_integration_api translate config_webservice"]" has been successfully completed [] []
+[2016-06-27 22:00:02] setup-cron.INFO: Job "setup:upgrade []" has started  [] []
+Cache cleared successfully
+File system cleanup:
+/var/www/ws/var/generation/Composer
+/var/www/ws/var/generation/Magento
+/var/www/ws/var/generation/Symfony
+The directory '/var/www/ws/var/di/' doesn't exist - skipping cleanup
+/var/www/ws/pub/static/_requirejs
+/var/www/ws/pub/static/adminhtml
+/var/www/ws/pub/static/deployed_version.txt
+/var/www/ws/pub/static/frontend
+/var/www/ws/var/view_preprocessed/css
+/var/www/ws/var/view_preprocessed/html
+/var/www/ws/var/view_preprocessed/source
+Updating modules:
+Schema creation/updates:
+Module 'Magento_Store':
+Module 'Magento_AdvancedPricingImportExport':
+Module 'Magento_Directory':
+Module 'Magento_Theme':
+Module 'Magento_Backend':
+Module 'Magento_Backup':
+Module 'Magento_Eav':
+Module 'Magento_Customer':
+Module 'Magento_BundleImportExport':
+Module 'Magento_CacheInvalidate':
+Module 'Magento_AdminNotification':
+Module 'Magento_Indexer':
+Module 'Magento_CatalogImportExport':
+Module 'Magento_Cms':
+Module 'Magento_Rule':
+Module 'Magento_Catalog':
+Module 'Magento_Search':
+Module 'Magento_CatalogUrlRewrite':
+Module 'Magento_Widget':
+Module 'Magento_Quote':
+Module 'Magento_CheckoutAgreements':
+Module 'Magento_SalesSequence':
+Module 'Magento_CmsUrlRewrite':
+Module 'Magento_Config':
+Module 'Magento_ConfigurableImportExport':
+Module 'Magento_Msrp':
+Module 'Magento_Contact':
+Module 'Magento_Cookie':
+Module 'Magento_Cron':
+Module 'Magento_CurrencySymbol':
+Module 'Magento_Bundle':
+Module 'Magento_CustomerImportExport':
+Module 'Magento_Deploy':
+Module 'Magento_Developer':
+Module 'Magento_Dhl':
+Module 'Magento_Authorization':
+Module 'Magento_Downloadable':
+Module 'Magento_ImportExport':
+Module 'Magento_Payment':
+Module 'Magento_Email':
+Module 'Magento_User':
+Module 'Magento_Fedex':
+Module 'Magento_Sales':
+Module 'Magento_CatalogInventory':
+Module 'Magento_GoogleAnalytics':
+Module 'Magento_Ui':
+Module 'Magento_GroupedImportExport':
+Module 'Magento_GroupedProduct':
+Module 'Magento_DownloadableImportExport':
+Module 'Magento_Checkout':
+Module 'Magento_Security':
+Module 'Magento_LayeredNavigation':
+Module 'Magento_Marketplace':
+Module 'Magento_MediaStorage':
+Module 'Magento_CatalogRule':
+Module 'Magento_Multishipping':
+Module 'Magento_ConfigurableProduct':
+Module 'Magento_Newsletter':
+Module 'Magento_OfflinePayments':
+Module 'Magento_SalesRule':
+Module 'Magento_PageCache':
+Module 'Magento_Captcha':
+Module 'Magento_Vault':
+Module 'Magento_Persistent':
+Module 'Magento_ProductAlert':
+Module 'Magento_ProductVideo':
+Module 'Magento_Authorizenet':
+Module 'Magento_Reports':
+Module 'Magento_RequireJs':
+Module 'Magento_Review':
+Module 'Magento_Rss':
+Module 'Magento_CatalogRuleConfigurable':
+Module 'Magento_Paypal':
+Module 'Magento_OfflineShipping':
+Module 'Magento_GoogleAdwords':
+Module 'Magento_SampleData':
+Module 'Magento_CatalogSearch':
+Module 'Magento_Integration':
+Module 'Magento_SendFriend':
+Module 'Magento_Shipping':
+Module 'Magento_Sitemap':
+Module 'Magento_NewRelicReporting':
+Module 'Magento_Swagger':
+Module 'Magento_Swatches':
+Module 'Magento_SwatchesLayeredNavigation':
+Module 'Magento_Tax':
+Module 'Magento_TaxImportExport':
+Module 'Magento_GiftMessage':
+Module 'Magento_Translation':
+Module 'Magento_GoogleOptimizer':
+Module 'Magento_Ups':
+Module 'Magento_UrlRewrite':
+Module 'Magento_EncryptionKey':
+Module 'Magento_Usps':
+Module 'Magento_Variable':
+Module 'Magento_Braintree':
+Module 'Magento_Version':
+Module 'Magento_Webapi':
+Module 'Magento_WebapiSecurity':
+Module 'Magento_Weee':
+Module 'Magento_CatalogWidget':
+Module 'Magento_Wishlist':
+Module 'Yotpo_Yotpo':
+Schema post-updates:
+Module 'Magento_Store':
+Module 'Magento_AdvancedPricingImportExport':
+Module 'Magento_Directory':
+Module 'Magento_Theme':
+Module 'Magento_Backend':
+Module 'Magento_Backup':
+Module 'Magento_Eav':
+Module 'Magento_Customer':
+Module 'Magento_BundleImportExport':
+Module 'Magento_CacheInvalidate':
+Module 'Magento_AdminNotification':
+Module 'Magento_Indexer':
+Running schema recurring...
+Module 'Magento_CatalogImportExport':
+Module 'Magento_Cms':
+Module 'Magento_Rule':
+Module 'Magento_Catalog':
+Running schema recurring...
+Module 'Magento_Search':
+Module 'Magento_CatalogUrlRewrite':
+Running schema recurring...
+Module 'Magento_Widget':
+Module 'Magento_Quote':
+Running schema recurring...
+Module 'Magento_CheckoutAgreements':
+Module 'Magento_SalesSequence':
+Module 'Magento_CmsUrlRewrite':
+Module 'Magento_Config':
+Module 'Magento_ConfigurableImportExport':
+Module 'Magento_Msrp':
+Module 'Magento_Contact':
+Module 'Magento_Cookie':
+Module 'Magento_Cron':
+Module 'Magento_CurrencySymbol':
+Module 'Magento_Bundle':
+Running schema recurring...
+Module 'Magento_CustomerImportExport':
+Module 'Magento_Deploy':
+Module 'Magento_Developer':
+Module 'Magento_Dhl':
+Module 'Magento_Authorization':
+Module 'Magento_Downloadable':
+Module 'Magento_ImportExport':
+Module 'Magento_Payment':
+Module 'Magento_Email':
+Module 'Magento_User':
+Module 'Magento_Fedex':
+Module 'Magento_Sales':
+Module 'Magento_CatalogInventory':
+Running schema recurring...
+Module 'Magento_GoogleAnalytics':
+Module 'Magento_Ui':
+Module 'Magento_GroupedImportExport':
+Module 'Magento_GroupedProduct':
+Module 'Magento_DownloadableImportExport':
+Module 'Magento_Checkout':
+Module 'Magento_Security':
+Module 'Magento_LayeredNavigation':
+Module 'Magento_Marketplace':
+Module 'Magento_MediaStorage':
+Module 'Magento_CatalogRule':
+Module 'Magento_Multishipping':
+Module 'Magento_ConfigurableProduct':
+Running schema recurring...
+Module 'Magento_Newsletter':
+Module 'Magento_OfflinePayments':
+Module 'Magento_SalesRule':
+Module 'Magento_PageCache':
+Module 'Magento_Captcha':
+Module 'Magento_Vault':
+Module 'Magento_Persistent':
+Module 'Magento_ProductAlert':
+Running schema recurring...
+Module 'Magento_ProductVideo':
+Module 'Magento_Authorizenet':
+Module 'Magento_Reports':
+Running schema recurring...
+Module 'Magento_RequireJs':
+Module 'Magento_Review':
+Module 'Magento_Rss':
+Module 'Magento_CatalogRuleConfigurable':
+Module 'Magento_Paypal':
+Module 'Magento_OfflineShipping':
+Module 'Magento_GoogleAdwords':
+Module 'Magento_SampleData':
+Module 'Magento_CatalogSearch':
+Module 'Magento_Integration':
+Running schema recurring...
+Module 'Magento_SendFriend':
+Module 'Magento_Shipping':
+Module 'Magento_Sitemap':
+Module 'Magento_NewRelicReporting':
+Module 'Magento_Swagger':
+Module 'Magento_Swatches':
+Module 'Magento_SwatchesLayeredNavigation':
+Module 'Magento_Tax':
+Module 'Magento_TaxImportExport':
+Module 'Magento_GiftMessage':
+Module 'Magento_Translation':
+Module 'Magento_GoogleOptimizer':
+Module 'Magento_Ups':
+Module 'Magento_UrlRewrite':
+Module 'Magento_EncryptionKey':
+Module 'Magento_Usps':
+Module 'Magento_Variable':
+Module 'Magento_Braintree':
+Module 'Magento_Version':
+Module 'Magento_Webapi':
+Module 'Magento_WebapiSecurity':
+Module 'Magento_Weee':
+Running schema recurring...
+Module 'Magento_CatalogWidget':
+Module 'Magento_Wishlist':
+Running schema recurring...
+Module 'Yotpo_Yotpo':
+Data install/update:
+Module 'Magento_Store':
+Module 'Magento_AdvancedPricingImportExport':
+Module 'Magento_Directory':
+Module 'Magento_Theme':
+Module 'Magento_Backend':
+Module 'Magento_Backup':
+Module 'Magento_Eav':
+Module 'Magento_Customer':
+Module 'Magento_BundleImportExport':
+Module 'Magento_CacheInvalidate':
+Module 'Magento_AdminNotification':
+Module 'Magento_Indexer':
+Module 'Magento_CatalogImportExport':
+Module 'Magento_Cms':
+Module 'Magento_Rule':
+Module 'Magento_Catalog':
+Module 'Magento_Search':
+Module 'Magento_CatalogUrlRewrite':
+Module 'Magento_Widget':
+Module 'Magento_Quote':
+Module 'Magento_CheckoutAgreements':
+Module 'Magento_SalesSequence':
+Module 'Magento_CmsUrlRewrite':
+Module 'Magento_Config':
+Module 'Magento_ConfigurableImportExport':
+Module 'Magento_Msrp':
+Module 'Magento_Contact':
+Module 'Magento_Cookie':
+Module 'Magento_Cron':
+Module 'Magento_CurrencySymbol':
+Module 'Magento_Bundle':
+Module 'Magento_CustomerImportExport':
+Module 'Magento_Deploy':
+Module 'Magento_Developer':
+Module 'Magento_Dhl':
+Module 'Magento_Authorization':
+Module 'Magento_Downloadable':
+Module 'Magento_ImportExport':
+Module 'Magento_Payment':
+Module 'Magento_Email':
+Module 'Magento_User':
+Module 'Magento_Fedex':
+Module 'Magento_Sales':
+Module 'Magento_CatalogInventory':
+Module 'Magento_GoogleAnalytics':
+Module 'Magento_Ui':
+Module 'Magento_GroupedImportExport':
+Module 'Magento_GroupedProduct':
+Module 'Magento_DownloadableImportExport':
+Module 'Magento_Checkout':
+Module 'Magento_Security':
+Module 'Magento_LayeredNavigation':
+Module 'Magento_Marketplace':
+Module 'Magento_MediaStorage':
+Module 'Magento_CatalogRule':
+Module 'Magento_Multishipping':
+Module 'Magento_ConfigurableProduct':
+Module 'Magento_Newsletter':
+Module 'Magento_OfflinePayments':
+Module 'Magento_SalesRule':
+Module 'Magento_PageCache':
+Module 'Magento_Captcha':
+Module 'Magento_Vault':
+Module 'Magento_Persistent':
+Module 'Magento_ProductAlert':
+Module 'Magento_ProductVideo':
+Module 'Magento_Authorizenet':
+Module 'Magento_Reports':
+Module 'Magento_RequireJs':
+Module 'Magento_Review':
+Module 'Magento_Rss':
+Module 'Magento_CatalogRuleConfigurable':
+Module 'Magento_Paypal':
+Module 'Magento_OfflineShipping':
+Module 'Magento_GoogleAdwords':
+Module 'Magento_SampleData':
+Module 'Magento_CatalogSearch':
+Module 'Magento_Integration':
+Module 'Magento_SendFriend':
+Module 'Magento_Shipping':
+Module 'Magento_Sitemap':
+Module 'Magento_NewRelicReporting':
+Module 'Magento_Swagger':
+Module 'Magento_Swatches':
+Module 'Magento_SwatchesLayeredNavigation':
+Module 'Magento_Tax':
+Module 'Magento_TaxImportExport':
+Module 'Magento_GiftMessage':
+Module 'Magento_Translation':
+Module 'Magento_GoogleOptimizer':
+Module 'Magento_Ups':
+Module 'Magento_UrlRewrite':
+Module 'Magento_EncryptionKey':
+Module 'Magento_Usps':
+Module 'Magento_Variable':
+Module 'Magento_Braintree':
+Module 'Magento_Version':
+Module 'Magento_Webapi':
+Module 'Magento_WebapiSecurity':
+Module 'Magento_Weee':
+Module 'Magento_CatalogWidget':
+Module 'Magento_Wishlist':
+Module 'Yotpo_Yotpo':
+Data post-updates:
+Module 'Magento_Store':
+Module 'Magento_AdvancedPricingImportExport':
+Module 'Magento_Directory':
+Module 'Magento_Theme':
+Running data recurring...
+Module 'Magento_Backend':
+Module 'Magento_Backup':
+Module 'Magento_Eav':
+Module 'Magento_Customer':
+Module 'Magento_BundleImportExport':
+Module 'Magento_CacheInvalidate':
+Module 'Magento_AdminNotification':
+Module 'Magento_Indexer':
+Module 'Magento_CatalogImportExport':
+Module 'Magento_Cms':
+Module 'Magento_Rule':
+Module 'Magento_Catalog':
+Module 'Magento_Search':
+Module 'Magento_CatalogUrlRewrite':
+Module 'Magento_Widget':
+Module 'Magento_Quote':
+Module 'Magento_CheckoutAgreements':
+Module 'Magento_SalesSequence':
+Module 'Magento_CmsUrlRewrite':
+Module 'Magento_Config':
+Module 'Magento_ConfigurableImportExport':
+Module 'Magento_Msrp':
+Module 'Magento_Contact':
+Module 'Magento_Cookie':
+Module 'Magento_Cron':
+Module 'Magento_CurrencySymbol':
+Module 'Magento_Bundle':
+Module 'Magento_CustomerImportExport':
+Module 'Magento_Deploy':
+Module 'Magento_Developer':
+Module 'Magento_Dhl':
+Module 'Magento_Authorization':
+Module 'Magento_Downloadable':
+Module 'Magento_ImportExport':
+Module 'Magento_Payment':
+Module 'Magento_Email':
+Module 'Magento_User':
+Module 'Magento_Fedex':
+Module 'Magento_Sales':
+Module 'Magento_CatalogInventory':
+Module 'Magento_GoogleAnalytics':
+Module 'Magento_Ui':
+Module 'Magento_GroupedImportExport':
+Module 'Magento_GroupedProduct':
+Module 'Magento_DownloadableImportExport':
+Module 'Magento_Checkout':
+Module 'Magento_Security':
+Module 'Magento_LayeredNavigation':
+Module 'Magento_Marketplace':
+Module 'Magento_MediaStorage':
+Module 'Magento_CatalogRule':
+Module 'Magento_Multishipping':
+Module 'Magento_ConfigurableProduct':
+Module 'Magento_Newsletter':
+Module 'Magento_OfflinePayments':
+Module 'Magento_SalesRule':
+Module 'Magento_PageCache':
+Module 'Magento_Captcha':
+Module 'Magento_Vault':
+Module 'Magento_Persistent':
+Module 'Magento_ProductAlert':
+Module 'Magento_ProductVideo':
+Module 'Magento_Authorizenet':
+Module 'Magento_Reports':
+Module 'Magento_RequireJs':
+Module 'Magento_Review':
+Module 'Magento_Rss':
+Module 'Magento_CatalogRuleConfigurable':
+Module 'Magento_Paypal':
+Module 'Magento_OfflineShipping':
+Module 'Magento_GoogleAdwords':
+Module 'Magento_SampleData':
+Module 'Magento_CatalogSearch':
+Module 'Magento_Integration':
+Module 'Magento_SendFriend':
+Module 'Magento_Shipping':
+Module 'Magento_Sitemap':
+Module 'Magento_NewRelicReporting':
+Module 'Magento_Swagger':
+Module 'Magento_Swatches':
+Module 'Magento_SwatchesLayeredNavigation':
+Module 'Magento_Tax':
+Module 'Magento_TaxImportExport':
+Module 'Magento_GiftMessage':
+Module 'Magento_Translation':
+Module 'Magento_GoogleOptimizer':
+Module 'Magento_Ups':
+Module 'Magento_UrlRewrite':
+Module 'Magento_EncryptionKey':
+Module 'Magento_Usps':
+Module 'Magento_Variable':
+Module 'Magento_Braintree':
+Module 'Magento_Version':
+Module 'Magento_Webapi':
+Module 'Magento_WebapiSecurity':
+Module 'Magento_Weee':
+Module 'Magento_CatalogWidget':
+Module 'Magento_Wishlist':
+Module 'Yotpo_Yotpo':
+Please re-run Magento compile command
+[2016-06-27 22:00:04] setup-cron.INFO: Job "setup:upgrade {"command":"setup:upgrade"}" has been successfully completed [] []
+[2016-06-27 22:00:04] setup-cron.INFO: Job "setup:static:regenerate []" has started  [] []
+[2016-06-27 22:00:04] setup-cron.INFO: Cleaning generated files... [] []
+[2016-06-27 22:00:04] setup-cron.INFO: Clearing cache... [] []
+[2016-06-27 22:00:04] setup-cron.INFO: Cleaning static view files [] []
+[2016-06-27 22:00:04] setup-cron.INFO: Job "setup:static:regenerate []" has been successfully completed [] []
+[2016-06-27 18:01:01] update-cron.INFO: Job "maintenance_mode {"enable":false}" has been started [] []
+[2016-06-27 18:01:01] update-cron.INFO: Magento maintenance mode is disabled. [] []
+[2016-06-27 18:01:01] update-cron.INFO: Job "maintenance_mode {"enable":false}" has successfully completed [] []
+[2016-06-27 19:51:01] update-cron.ERROR: "/var/www/ws/var/.update_in_progress.flag" cannot be created. [] []
+[2016-06-27 20:19:01] update-cron.WARNING: Update is already in progress. [] []

@@ -1,0 +1,1 @@
+/var/www/ws/lib/web/fotorama/fotorama.js

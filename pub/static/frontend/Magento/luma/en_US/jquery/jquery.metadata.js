@@ -1,0 +1,1 @@
+/var/www/ws/lib/web/jquery/jquery.metadata.js
