@@ -104,6 +104,7 @@ return array (
     'Magento_Weee' => 1,
     'Magento_CatalogWidget' => 1,
     'Magento_Wishlist' => 1,
+    'Weedshop_Dream' => 1,
     'Yotpo_Yotpo' => 1,
   ),
 );

@@ -7,7 +7,7 @@
             "responseType": "success",
             "data": {
                 "required": "~5.6.0|7.0.2|~7.0.6",
-                "current": "7.0.7-4+deb.sury.org~trusty+1"
+                "current": "7.0.8-2+deb.sury.org~trusty+1"
             }
         },
         "php_extensions_verified": {
@@ -165,6 +165,6 @@
         ],
         "error": ""
     },
-    "last_timestamp": 1467073861,
-    "current_timestamp": 1467073861
+    "last_timestamp": 1467274082,
+    "current_timestamp": 1467274083
 }
