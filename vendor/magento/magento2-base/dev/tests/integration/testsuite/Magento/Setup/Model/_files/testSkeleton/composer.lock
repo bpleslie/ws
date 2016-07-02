@@ -872,8 +872,8 @@
                         "dev/.htaccess"
                     ],
                     [
-                        "Gruntfile.js",
-                        "Gruntfile.js"
+                        "Gruntfile.js.sample",
+                        "Gruntfile.js.sample"
                     ],
                     [
                         "setup",

@@ -942,8 +942,8 @@
                         "COPYING.txt"
                     ],
                     [
-                        "Gruntfile.js.sample",
-                        "Gruntfile.js.sample"
+                        "Gruntfile.js.sample.sample",
+                        "Gruntfile.js.sample.sample"
                     ],
                     [
                         "ISSUE_TEMPLATE.md",

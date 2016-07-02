@@ -26,3 +26,40 @@
 [2016-06-29 21:33:01 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
 [2016-06-29 21:59:01 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
 [2016-06-30 01:13:01 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
+[2016-06-30 15:09:02 EDT] Update is already in progress.
+[2016-06-30 15:14:02 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
+[2016-06-30 15:32:01 EDT] Update is already in progress.
+[2016-06-30 16:05:01 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
+[2016-06-30 17:08:01 EDT] Update is already in progress.
+[2016-06-30 17:15:01 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
+[2016-06-30 21:27:03 UTC] ".update_in_progress.flag" cannot be created.
+[2016-06-30 18:16:01 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
+[2016-06-30 19:03:01 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
+[2016-06-30 19:09:01 EDT] Update is already in progress.
+[2016-06-30 21:28:01 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
+[2016-06-30 21:29:01 EDT] Update is already in progress.
+[2016-07-01 01:43:02 UTC] ".update_in_progress.flag" cannot be created.
+[2016-06-30 22:07:01 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
+[2016-06-30 23:17:01 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
+[2016-06-30 23:20:01 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
+[2016-07-01 03:35:02 UTC] ".update_in_progress.flag" cannot be created.
+[2016-06-30 23:36:01 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
+[2016-07-01 00:30:02 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
+[2016-07-01 00:49:02 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
+[2016-07-01 02:41:01 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
+[2016-07-01 04:39:01 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
+[2016-07-01 09:16:02 UTC] ".update_in_progress.flag" cannot be created.
+[2016-07-01 09:55:02 UTC] ".update_in_progress.flag" cannot be created.
+[2016-07-01 06:33:02 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
+[2016-07-01 10:46:03 UTC] ".update_in_progress.flag" cannot be created.
+[2016-07-01 06:56:01 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
+[2016-07-01 12:21:03 UTC] ".update_in_progress.flag" cannot be created.
+[2016-07-01 12:37:03 UTC] ".update_in_progress.flag" cannot be created.
+[2016-07-01 11:21:01 EDT] Update is already in progress.
+[2016-07-01 12:53:01 EDT] "/var/www/ws/var/.update_in_progress.flag" cannot be created.
+[2016-07-01 13:24:01 EDT] Update is already in progress.
+[2016-07-01 17:28:02 UTC] ".update_in_progress.flag" cannot be created.
+[2016-07-01 13:34:01 EDT] Update is already in progress.
+[2016-07-01 15:32:01 EDT] Update is already in progress.
+[2016-07-01 17:09:01 EDT] Update is already in progress.
+[2016-07-02 02:00:03 UTC] ".update_in_progress.flag" cannot be created.

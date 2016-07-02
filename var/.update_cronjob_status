@@ -1,7 +1,8 @@
 {
     "readiness_checks": {
-        "file_permissions_verified": true
+        "error": "<br/>Found non-writable path(s):<br/>/var/www/ws/Gruntfile.js.sample<br/>/var/www/ws/package.json.sample",
+        "file_permissions_verified": false
     },
-    "last_timestamp": 1467274081,
-    "current_timestamp": 1467274082
+    "last_timestamp": 1467498122,
+    "current_timestamp": 1467498122
 }

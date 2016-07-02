@@ -248,7 +248,7 @@
         order allow,deny
         deny from all
     </Files>
-    <Files Gruntfile.js>
+    <Files Gruntfile.js.sample>
         order allow,deny
         deny from all
     </Files>
