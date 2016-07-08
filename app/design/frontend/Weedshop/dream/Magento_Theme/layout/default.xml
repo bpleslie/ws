@@ -11,5 +11,11 @@
         <referenceBlock name="store.menu">
             <container name="header.panel" htmlClass="panel header nav-right" htmlTag="div" after="catalog.topnav" />
         </referenceBlock>
+
+        <referenceBlock name="logo">
+            <arguments>
+                <argument name="logo_img_width" xsi:type="number">110</argument>
+            </arguments>
+        </referenceBlock>
     </body>
 </page>
