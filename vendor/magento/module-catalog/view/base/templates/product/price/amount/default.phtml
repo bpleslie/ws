@@ -14,6 +14,8 @@
         <?php echo $block->getSchema() ? ' itemprop="offers" itemscope itemtype="http://schema.org/Offer"' : '' ?>>
     <?php if ($block->getDisplayLabel()): ?>
         <span class="price-label"><?php /* @escapeNotVerified */ echo $block->getDisplayLabel(); ?></span>
+    <?php else: ?>
+        <span class="price-label"><?php /* @escapeNotVerified */ echo __('Price:') ?></span>
     <?php endif; ?>
     <span <?php if ($block->getPriceId()): ?> id="<?php /* @escapeNotVerified */ echo $block->getPriceId() ?>"<?php endif;?>
         <?php echo($block->getPriceDisplayLabel()) ? 'data-label="' . $block->getPriceDisplayLabel() . $block->getPriceDisplayInclExclTaxes() . '"' : '' ?>

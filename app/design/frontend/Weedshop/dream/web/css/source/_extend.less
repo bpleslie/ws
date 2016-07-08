@@ -7,11 +7,31 @@ header, .nav-sections, .navigation {
 
 .page-header {
   height: 50px;
-}
 
-  .page-header .minicart-wrapper {
+  .minicart-wrapper {
     color: black;
+
+    .showcart {
+
+      &::before {
+        color: white;
+
+        :hover {
+          color: white;
+        }
+      }
+
+      .text {
+        color: white;
+        position: relative;
+        top: -5px;
+        padding-left: 5px;
+        padding-right: 5px;
+        font-size: 18px;
+      }
+    }
   }
+}
 
 .header.content {
   padding: 10px 20px 0;
@@ -36,15 +56,12 @@ header, .nav-sections, .navigation {
 .block-search {
   width: 80%;
   float: left;
-}
 
-  .block-search input {
+  input {
     border-radius: 5px;
   }
-
-.minicart-wrapper .action.showcart:before {
-  color: white;
 }
+
 
 nav.navigation {
   width: 20%;
@@ -75,7 +92,7 @@ nav.navigation {
   }
 
   // full width
-  .navigation, .breadcrumbs, .page-header .header.panel, .header.content, .footer.content, .page-wrapper > .widget, .page-wrapper > .page-bottom, .block.category.event, .top-container, .page-main {
+  .navigation, .breadcrumbs, .page-header .header.panel, .header.content, .page-wrapper > .widget, .block.category.event, .top-container, .page-main {
     max-width: 100%;
   }
 
@@ -116,18 +133,65 @@ nav.navigation {
     display: inline-block;
     width: 60%;
     float: right;
-  }
-  
-    .nav-right #switcher-currency {
+
+    #switcher-currency {
       display: none;
     }
 
-    .nav-right .header.links {
+    .header.links {
       float: right;
+    }
+
+    span, a {
       font-size: 13px;
     }
+  }
 
 // main content
 .breadcrumbs {
   padding-top: 10px;
+}
+
+// product page
+.page-layout-1column {
+  .product.media {
+    width: 33%;
+    max-width: 584px;
+  }
+
+  .product-info-main {
+    width: 64%;
+
+    h1 {
+      font-size: 21px;
+      font-weight: 900;
+    }
+
+    .product-info-price {
+      margin-top: 15px;
+
+      .price-box {
+        display: block;
+        width: auto;
+
+        .old-price {
+
+          .price-label {
+            font-size: 12px;
+          }
+        }
+      }
+
+      .product-info-stock-sku {
+        display: block;
+        text-align: left;
+        padding: 0;
+      }
+    }
+    
+    #old-price-1 .price {
+      color: red;
+      text-decoration: line-through;
+    }
+  }
 }
