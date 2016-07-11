@@ -15,10 +15,6 @@ header, .nav-sections, .navigation {
 
       &::before {
         color: white;
-
-        :hover {
-          color: white;
-        }
       }
 
       .text {
@@ -29,8 +25,24 @@ header, .nav-sections, .navigation {
         padding-right: 5px;
         font-size: 18px;
       }
+
+      .counter.qty {
+        background: white;
+        color: black;
+      }
+    }
+
+    .action.showcart:hover:before,
+    .action.showcart.active:before {
+      color: white;
     }
   }
+}
+
+.block-minicart .block-content > .actions > .primary .action.primary {
+  background: #F3D047;
+  color: #000;
+  border-radius: 5px;
 }
 
 .header.content {
@@ -153,7 +165,7 @@ nav.navigation {
 }
 
 // product page
-.page-layout-1column {
+.catalog-product-view {
   .product.media {
     width: 33%;
     max-width: 584px;
@@ -193,5 +205,37 @@ nav.navigation {
       color: red;
       text-decoration: line-through;
     }
+  }
+
+  .columns .sidebar-additional {
+
+    .product-add-form {
+      border: 1px solid #c1c1c1;
+      border-radius: 5px;
+      padding: 30px;
+      margin-bottom: 30px;
+    }
+  }
+
+  .box-tocart .action.tocart {
+    width: 100%;
+    background: #F3D047;
+    color: #000;
+    border-radius: 5px;
+  }
+
+  .sidebar .fieldset > .field:not(.choice) .label,
+  .sidebar .fieldset .fields > .field .label {
+    padding: 7px 10px 0 0;
+  }
+
+  .sidebar .fieldset > .field:not(.choice) .label, .sidebar .fieldset .fields > .field .label,
+  .sidebar .fieldset > .field:not(.choice) .control, .sidebar .fieldset .fields > .field .control {
+    width: auto;
+    float: left;
+  }
+
+  .field.qty {
+    padding-bottom: 40px;
   }
 }
