@@ -1,88 +1,88 @@
-// header
-header, .nav-sections, .navigation {
-  background-color: #00A5E3;
-  border-color: #00A5E3;
-  color: white;
-}
+// desktop styles
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__m) {
 
-.page-header {
-  height: 50px;
+  // header
+  header, .nav-sections, .navigation {
+    background-color: #00A5E3;
+    border-color: #00A5E3;
+    color: @color-white;
 
-  .minicart-wrapper {
-    color: black;
-
-    .showcart {
-
-      &::before {
-        color: white;
-      }
-
-      .text {
-        color: white;
-        position: relative;
-        top: -5px;
-        padding-left: 5px;
-        padding-right: 5px;
-        font-size: 18px;
-      }
-
-      .counter.qty {
-        background: white;
-        color: black;
-      }
-    }
-
-    .action.showcart:hover:before,
-    .action.showcart.active:before {
-      color: white;
+    // full width
+    .navigation, .breadcrumbs, .page-header .header.panel, .header.content, .page-wrapper > .widget, .block.category.event, .top-container, .page-main {
+      max-width: 100%;
     }
   }
-}
 
-.block-minicart .block-content > .actions > .primary .action.primary {
-  background: #F3D047;
-  color: #000;
-  border-radius: 5px;
-}
+  .page-header {
+    height: 50px;
 
-.header.content {
-  padding: 10px 20px 0;
-}
+    .minicart-wrapper {
+      color: black;
 
-  .header.content:after {
-    clear:none;
+      .showcart {
+
+        &::before {
+          color: @color-white;
+        }
+
+        .counter.qty {
+          background: @color-white;
+          color: #00A5E3;
+        }
+      }
+
+      .action.showcart:hover:before,
+      .action.showcart.active:before {
+        color: @color-white;
+      }
+    }
   }
 
-.nav-sections {
-  margin-bottom: 0;
-}
-
-.panel.header {
-  border: none;
-  color: white;
-  background: #00A5E3;
-  padding-bottom: 0px;
-  padding-top: 15px;
-}
-
-.block-search {
-  width: 80%;
-  float: left;
-
-  input {
+  .block-minicart .block-content > .actions > .primary .action.primary {
+    background: #F3D047;
+    color: #000;
     border-radius: 5px;
   }
-}
 
+  .header.content {
+    padding: 10px 20px 0;
+  }
 
-nav.navigation {
-  width: 20%;
-  float: left;
-  min-width: 400px;
-}
+  .header.content:after {
+    clear: none;
+  }
+
+  .nav-sections {
+    margin-bottom: 0;
+  }
+
+  .panel.header {
+    border: none;
+    color: @color-white;
+    background: #00A5E3;
+    padding-bottom: 0px;
+    padding-top: 15px;
+  }
+
+  .block-search {
+    width: 80%;
+    float: left;
+
+    input {
+      border-radius: 5px;
+    }
+  }
+
+  // navigation
+  nav.navigation {
+    width: 20%;
+    float: left;
+    min-width: 400px;
+    height: 40px;
+  }
 
   .navigation .level-top > a > span {
-    color: white;
+    color: @color-white;
   }
 
   .navigation .level-top.first:after {
@@ -93,7 +93,7 @@ nav.navigation {
     content: '\e622';
     font-family: 'luma-icons';
     margin-top: 15px;
-    color: white;
+    color: @color-white;
     vertical-align: top;
     display: inline-block;
     font-weight: normal;
@@ -103,13 +103,9 @@ nav.navigation {
     font-weight: bold;
   }
 
-  // full width
-  .navigation, .breadcrumbs, .page-header .header.panel, .header.content, .page-wrapper > .widget, .block.category.event, .top-container, .page-main {
-    max-width: 100%;
-  }
-
   .nav-1 {
     font-size: 16px;
+    height: 40px;
   }
 
   .nav-2, .nav-3 {
@@ -121,10 +117,10 @@ nav.navigation {
     margin-left: 30px;
   }
 
-    .nav-2:hover,
-    .nav-3:hover {
-      color: white;
-    }
+  .nav-2:hover,
+  .nav-3:hover {
+    color: @color-white;
+  }
 
   .nav-1-1.first a:after {
     -webkit-font-smoothing: antialiased;
@@ -143,7 +139,7 @@ nav.navigation {
 
   .nav-right {
     display: inline-block;
-    width: 60%;
+    width: 40%;
     float: right;
 
     #switcher-currency {
@@ -159,83 +155,138 @@ nav.navigation {
     }
   }
 
-// main content
-.breadcrumbs {
-  padding-top: 10px;
-}
-
-// product page
-.catalog-product-view {
-  .product.media {
-    width: 33%;
-    max-width: 584px;
+  // main content
+  .breadcrumbs {
+    padding-top: 10px;
   }
 
-  .product-info-main {
-    width: 64%;
+  // product page
+  .catalog-product-view {
 
-    h1 {
-      font-size: 21px;
-      font-weight: 900;
+    // full width
+    .navigation, .breadcrumbs, .page-header .header.panel, .header.content, .page-wrapper > .widget, .block.category.event, .top-container, .page-main {
+      max-width: 100%;
     }
 
-    .product-info-price {
-      margin-top: 15px;
+    .product.media {
+      width: 33%;
+      max-width: 584px;
+    }
 
-      .price-box {
-        display: block;
-        width: auto;
+    .product-info-main {
+      width: 64%;
 
-        .old-price {
+      h1 {
+        font-size: 21px;
+        font-weight: 900;
+      }
 
-          .price-label {
-            font-size: 12px;
+      .product-info-price {
+        margin-top: 15px;
+
+        .price-box {
+          display: block;
+          width: auto;
+
+          .old-price {
+
+            .price-label {
+              font-size: 12px;
+            }
           }
+        }
+
+        .product-info-stock-sku {
+          display: block;
+          text-align: left;
+          padding: 0;
         }
       }
 
-      .product-info-stock-sku {
-        display: block;
-        text-align: left;
-        padding: 0;
+      #old-price-1 .price {
+        color: red;
+        text-decoration: line-through;
       }
     }
-    
-    #old-price-1 .price {
-      color: red;
-      text-decoration: line-through;
+
+    .columns .sidebar-additional {
+
+      .product-add-form {
+        border: 1px solid #c1c1c1;
+        border-radius: 5px;
+        padding: 30px;
+        margin-bottom: 30px;
+      }
     }
-  }
 
-  .columns .sidebar-additional {
-
-    .product-add-form {
-      border: 1px solid #c1c1c1;
+    .box-tocart .action.tocart {
+      width: 100%;
+      background: #F3D047;
+      color: #000;
       border-radius: 5px;
-      padding: 30px;
-      margin-bottom: 30px;
+    }
+
+    .sidebar .fieldset > .field:not(.choice) .label,
+    .sidebar .fieldset .fields > .field .label {
+      padding: 7px 10px 0 0;
+    }
+
+    .sidebar .fieldset > .field:not(.choice) .label, .sidebar .fieldset .fields > .field .label,
+    .sidebar .fieldset > .field:not(.choice) .control, .sidebar .fieldset .fields > .field .control {
+      width: auto;
+      float: left;
+    }
+
+    .field.qty {
+      padding-bottom: 40px;
     }
   }
 
-  .box-tocart .action.tocart {
-    width: 100%;
-    background: #F3D047;
-    color: #000;
-    border-radius: 5px;
+  // category page
+  .catalog-category-view {
+
+    // full width
+    .navigation, .breadcrumbs, .page-header .header.panel, .header.content, .page-wrapper > .widget, .block.category.event, .top-container, .page-main {
+      max-width: 100%;
+    }
+
+    .products-grid .product-item-info:hover,
+    .products-grid .product-item-info.active {
+      box-shadow: none;
+      border: none;
+      margin: 0;
+      padding: 0;
+    }
   }
 
-  .sidebar .fieldset > .field:not(.choice) .label,
-  .sidebar .fieldset .fields > .field .label {
-    padding: 7px 10px 0 0;
+  // customer account
+  .account,
+  .customer-account-login {
+
+
+    // full width
+    .navigation, .breadcrumbs, .page-header .header.panel, .header.content, .page-wrapper > .widget, .block.category.event, .top-container, .page-main {
+      max-width: 100%;
+    }
   }
 
-  .sidebar .fieldset > .field:not(.choice) .label, .sidebar .fieldset .fields > .field .label,
-  .sidebar .fieldset > .field:not(.choice) .control, .sidebar .fieldset .fields > .field .control {
-    width: auto;
-    float: left;
-  }
+  // checkout
+  .checkout-index-index {
+    header {
+      background: none;
+    }
 
-  .field.qty {
-    padding-bottom: 40px;
+    .opc-progress-bar-item._active:before,
+    .opc-progress-bar-item._active > span:before {
+      background: #00A5E3;
+    }
+
+
+    .checkout-shipping-method .actions-toolbar .action.primary,
+    .checkout-payment-method .payment-method-content > .actions-toolbar > .primary .action.primary {
+      background: #F3D047;
+      color: #000;
+      border-radius: 5px;
+    }
   }
 }
