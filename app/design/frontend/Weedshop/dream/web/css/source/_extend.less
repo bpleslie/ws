@@ -8,7 +8,8 @@
     color: @color-white;
 
     // full width
-    .navigation, .breadcrumbs, .page-header .header.panel, .header.content, .page-wrapper > .widget, .block.category.event, .top-container, .page-main {
+    .navigation, .breadcrumbs, .page-header .header.panel, .header.content,
+    .page-wrapper > .widget, .block.category.event, .top-container, .page-main {
       max-width: 100%;
     }
   }
@@ -79,6 +80,11 @@
     float: left;
     min-width: 400px;
     height: 40px;
+
+    .level0 .submenu .active > a,
+    .level1 .submenu .active > a {
+      border-color: #00A5E3;
+    }
   }
 
   .navigation .level-top > a > span {
@@ -164,7 +170,8 @@
   .catalog-product-view {
 
     // full width
-    .navigation, .breadcrumbs, .page-header .header.panel, .header.content, .page-wrapper > .widget, .block.category.event, .top-container, .page-main {
+    .navigation, .breadcrumbs, .page-header .header.panel, .header.content,
+    .page-wrapper > .widget, .block.category.event, .top-container, .page-main {
       max-width: 100%;
     }
 
@@ -246,7 +253,8 @@
   .catalog-category-view {
 
     // full width
-    .navigation, .breadcrumbs, .page-header .header.panel, .header.content, .page-wrapper > .widget, .block.category.event, .top-container, .page-main {
+    .navigation, .breadcrumbs, .page-header .header.panel, .header.content,
+    .page-wrapper > .widget, .block.category.event, .top-container, .page-main {
       max-width: 100%;
     }
 
@@ -261,12 +269,23 @@
 
   // customer account
   .account,
-  .customer-account-login {
+  .customer-account-login,
+  .customer-account-logout {
 
 
     // full width
-    .navigation, .breadcrumbs, .page-header .header.panel, .header.content, .page-wrapper > .widget, .block.category.event, .top-container, .page-main {
+    .navigation, .breadcrumbs, .page-header .header.panel, .header.content,
+    .page-wrapper > .widget, .block.category.event, .top-container, .page-main {
       max-width: 100%;
+    }
+
+    h1 {
+      margin-top: 40px;
+    }
+
+    .block-collapsible-nav .item.current a,
+    .block-collapsible-nav .item.current > strong {
+      border-color: #00A5E3;
     }
   }
 
@@ -281,9 +300,17 @@
       background: #00A5E3;
     }
 
-
     .checkout-shipping-method .actions-toolbar .action.primary,
     .checkout-payment-method .payment-method-content > .actions-toolbar > .primary .action.primary {
+      background: #F3D047;
+      color: #000;
+      border-radius: 5px;
+    }
+  }
+
+  // sidebar
+  .columns .sidebar-additional {
+    .action.tocart {
       background: #F3D047;
       color: #000;
       border-radius: 5px;
