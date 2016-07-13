@@ -51,7 +51,7 @@ class PageBlockHtmlTopmenuGethtmlBeforeObserver implements ObserverInterface
 
         // construct array for parent menu item
         $data = [
-            'name'      => __('Your Account'),
+            'name'      => __('Account'),
             'id'        => 'your-account',
             'url'       => '/customer/account',
             'class'     => 'customer-account',
@@ -62,7 +62,7 @@ class PageBlockHtmlTopmenuGethtmlBeforeObserver implements ObserverInterface
 
         // construct array for parent menu item
         $data = [
-            'name'      => __('Today\'s Deals'),
+            'name'      => __('Deals'),
             'id'        => 'today-deal',
             'url'       => '/sale',
             'is_active' => 0

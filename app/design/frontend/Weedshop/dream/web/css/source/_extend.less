@@ -1,3 +1,70 @@
+// global styles
+
+  // add to cart
+  .columns .sidebar-additional {
+    .action.tocart {
+      background: #F3D047;
+      color: #000;
+      border-radius: 5px;
+    }
+  }
+
+  .block-minicart .block-content > .actions > .primary .action.primary {
+    background: #F3D047;
+    color: #000;
+    border-radius: 5px;
+  }
+
+  .box-tocart .action.tocart {
+    width: 100%;
+    background: #F3D047;
+    color: #000;
+    border-radius: 5px;
+  }
+
+  // checkout
+  .checkout-index-index {
+    header {
+      background: none;
+    }
+
+    .opc-progress-bar-item._active:before,
+    .opc-progress-bar-item._active > span:before {
+      background: #00A5E3;
+    }
+
+    .checkout-shipping-method .actions-toolbar .action.primary,
+    .checkout-payment-method .payment-method-content > .actions-toolbar > .primary .action.primary {
+      background: #F3D047;
+      color: #000;
+      border-radius: 5px;
+    }
+  }
+
+  // fotorama gallery
+  .fotorama__active .fotorama__dot {
+    background-color: #00A5E3 !important;
+    border-color: #00A5E3 !important;
+  }
+
+  .fotorama__thumb-border {
+    border: 1px solid #00A5E3;
+  }
+
+  // product page
+  .catalog-product-view {
+
+    #old-price-1 .price {
+      color: red;
+      text-decoration: line-through;
+    }
+  }
+
+  // yotpo reviews
+  .yotpo-label {
+    display: none;
+  }
+
 // desktop styles
 .media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__m) {
 
@@ -39,12 +106,6 @@
     }
   }
 
-  .block-minicart .block-content > .actions > .primary .action.primary {
-    background: #F3D047;
-    color: #000;
-    border-radius: 5px;
-  }
-
   .header.content {
     padding: 10px 20px 0;
   }
@@ -61,12 +122,12 @@
     border: none;
     color: @color-white;
     background: #00A5E3;
-    padding-bottom: 0px;
+    padding-bottom: 0;
     padding-top: 15px;
   }
 
   .block-search {
-    width: 80%;
+    width: 70%;
     float: left;
 
     input {
@@ -209,11 +270,6 @@
           padding: 0;
         }
       }
-
-      #old-price-1 .price {
-        color: red;
-        text-decoration: line-through;
-      }
     }
 
     .columns .sidebar-additional {
@@ -224,13 +280,6 @@
         padding: 30px;
         margin-bottom: 30px;
       }
-    }
-
-    .box-tocart .action.tocart {
-      width: 100%;
-      background: #F3D047;
-      color: #000;
-      border-radius: 5px;
     }
 
     .sidebar .fieldset > .field:not(.choice) .label,
@@ -288,32 +337,190 @@
       border-color: #00A5E3;
     }
   }
+}
 
-  // checkout
-  .checkout-index-index {
-    header {
-      background: none;
+// 6plus styles
+.media-width(@extremum, @break) when (@extremum = 'max') and (@break = @screen__m) {
+
+  // header
+  header {
+    background: #00A5E3;
+
+    .logo {
+      margin-left: 0;
+      margin-bottom: 0;
     }
 
-    .opc-progress-bar-item._active:before,
-    .opc-progress-bar-item._active > span:before {
-      background: #00A5E3;
+    .block-search {
+
+      label {
+        width: 10%;
+        float: right;
+      }
+
+      .label:before {
+        color: @color-white;
+      }
     }
 
-    .checkout-shipping-method .actions-toolbar .action.primary,
-    .checkout-payment-method .payment-method-content > .actions-toolbar > .primary .action.primary {
-      background: #F3D047;
-      color: #000;
-      border-radius: 5px;
+    .control {
+      border: none;
+
+      input {
+        border-radius: 5px;
+      }
+    }
+
+    .minicart-wrapper .action.showcart:before {
+      color: @color-white;
     }
   }
 
-  // sidebar
-  .columns .sidebar-additional {
-    .action.tocart {
-      background: #F3D047;
-      color: #000;
-      border-radius: 5px;
+  .page-header {
+    margin-bottom: 0;
+    border: none;
+  }
+
+  // main nav
+  .nav-sections {
+    display: block;
+    position: relative;
+    left: 0;
+    width: 100%;
+
+    .nav-sections-item-title {
+      display: none;
     }
+
+    .nav-sections-item-content {
+      margin: 0;
+      padding: 0;
+      background: #00A5E3;
+
+      .navigation {
+
+        a, a:hover {
+          color: @color-white;
+        }
+
+        .level0 {
+          float: left;
+          border: none;
+          display: inline-block;
+
+          .level-top {
+            text-transform: capitalize;
+          }
+        }
+
+        .nav-2 .level-top, .nav-3 .level-top {
+          padding: 8px 20px 8px 15px;
+        }
+
+        submenu:not(:first-child) .active > a {
+          border-color: @color-white;
+        }
+      }
+    }
+  }
+
+  .breadcrumbs {
+    background: @color-white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 5px;
+  }
+
+  // body
+  body {
+    background: @color-gray76;
+
+    .breadcrumbs {
+      display: block;
+    }
+
+    .breadcrumbs, .footer.content,
+    .page-main, .page-wrapper > .widget,
+    .page-wrapper > .page-bottom,
+    .block.category.event, .top-container {
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+  }
+
+  // product page
+  .catalog-product-view {
+
+    .column.main {
+      width: 100%;
+      padding-bottom: 0;
+      margin-bottom: 5px;
+    }
+
+    .product-info-main {
+      background: @color-white;
+      padding: 15px;
+
+      h1 {
+        margin-bottom: 1rem;
+      }
+
+      .yotpo {
+        margin-bottom: 15px;
+
+        .bottomLine .yotpo-display-wrapper {
+          padding: 0;
+        }
+      }
+
+      .product-info-price {
+        width: 100% !important;
+
+        .old-price {
+
+          .price-label {
+            display: none;
+          }
+        }
+      }
+    }
+
+    .product {
+      &.media {
+        background: @color-white;
+      }
+
+      &.data.items {
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 5px;
+      }
+
+      &.info.detailed {
+        margin-bottom: 0;
+      }
+    }
+
+    .product-add-form,
+    .block-compare,
+    .block-wishlist {
+      background: @color-white;
+      padding: 15px;
+    }
+
+    .yotpo-main-widget .yotpo-display-wrapper {
+      background: @color-white;
+      padding: 15px;
+    }
+  }
+
+  .yotpo-main-widget .yotpo-display-wrapper .yotpo-main-title {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  // footer
+  .footer.content .links > li {
+    margin: 0;
   }
 }

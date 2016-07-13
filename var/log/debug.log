@@ -366,3 +366,6 @@
 [2016-07-12 17:20:11] main.DEBUG: can't find yotpo block {"is_exception":false} []
 [2016-07-12 17:28:02] main.DEBUG: can't find yotpo block {"is_exception":false} []
 [2016-07-12 20:40:57] main.DEBUG: cache_invalidate:  {"method":"POST","url":"http://dev.weedshop.com/admin_1jtz3j/admin/index/index/key/32cadae68727443e8d97d1ca8b74a8d73122caab397cd7c43daa2214775ac3a6/","invalidateInfo":{"tags":["BACKEND_MAINMENU"],"mode":"matchingAnyTag"},"is_exception":false} []
+[2016-07-13 05:18:27] main.DEBUG: cache_invalidate:  {"method":"POST","url":"http://dev.weedshop.com/admin_1jtz3j/admin/index/index/key/56180aa0756809e27c40031bfd21d9ca571ff9f8e3700735a43f2b5bccfb9293/","invalidateInfo":{"tags":["BACKEND_MAINMENU"],"mode":"matchingAnyTag"},"is_exception":false} []
+[2016-07-13 20:43:12] main.DEBUG: cache_invalidate:  {"method":"POST","url":"http://dev.weedshop.com/admin_1jtz3j/admin/index/index/key/a5ea9b213f33b15e374fb8b8528e8486812252dbd71ec3e57ecba04d9c778ff2/","invalidateInfo":{"tags":["BACKEND_MAINMENU"],"mode":"matchingAnyTag"},"is_exception":false} []
+[2016-07-13 21:20:11] main.DEBUG: cache_invalidate:  {"method":"POST","url":"http://dev.weedshop.com/admin_1jtz3j/admin/index/index/key/a5ea9b213f33b15e374fb8b8528e8486812252dbd71ec3e57ecba04d9c778ff2/","invalidateInfo":{"tags":["BACKEND_MAINMENU"],"mode":"matchingAnyTag"},"is_exception":false} []

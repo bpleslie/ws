@@ -14,7 +14,7 @@
 
         <referenceBlock name="logo">
             <arguments>
-                <argument name="logo_img_width" xsi:type="number">110</argument>
+                <argument name="logo_img_width" xsi:type="number">70</argument>
             </arguments>
         </referenceBlock>
     </body>
