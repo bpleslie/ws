@@ -62,3 +62,8 @@ setup-cron: Please check var/log/update.log for execution summary.
 We're sorry, an error occurred. Try clearing the cache and code generation directories. By default, they are: var/cache, var/di, var/generation, and var/page_cache.
 setup-cron: Please check var/log/update.log for execution summary.
 setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.
+setup-cron: Please check var/log/update.log for execution summary.

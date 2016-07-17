@@ -1,5 +1,31 @@
 // global styles
 
+  // header
+  .page-header {
+    height: 45px;
+
+    .minicart-wrapper {
+      color: black;
+
+      .showcart {
+
+        &::before {
+          color: @color-white;
+        }
+
+        .counter.qty {
+          background: @color-white;
+          color: #00A5E3;
+        }
+      }
+
+      .action.showcart:hover:before,
+      .action.showcart.active:before {
+        color: @color-white;
+      }
+    }
+  }
+
   // add to cart
   .columns .sidebar-additional {
     .action.tocart {
@@ -20,6 +46,16 @@
     background: #F3D047;
     color: #000;
     border-radius: 5px;
+  }
+
+  // cart
+  .checkout-cart-index {
+    .action.primary.checkout {
+      width: 100%;
+      background: #F3D047;
+      color: #000;
+      border-radius: 5px;
+    }
   }
 
   // checkout
@@ -51,13 +87,17 @@
     border: 1px solid #00A5E3;
   }
 
-  // product page
-  .catalog-product-view {
-
-    #old-price-1 .price {
+  // price
+  *[id^='old-price-'] {
+    .price {
       color: red;
       text-decoration: line-through;
     }
+  }
+
+  .product-item .old-price {
+    width: 100%;
+    display: block;
   }
 
   // yotpo reviews
@@ -78,31 +118,6 @@
     .navigation, .breadcrumbs, .page-header .header.panel, .header.content,
     .page-wrapper > .widget, .block.category.event, .top-container, .page-main {
       max-width: 100%;
-    }
-  }
-
-  .page-header {
-    height: 50px;
-
-    .minicart-wrapper {
-      color: black;
-
-      .showcart {
-
-        &::before {
-          color: @color-white;
-        }
-
-        .counter.qty {
-          background: @color-white;
-          color: #00A5E3;
-        }
-      }
-
-      .action.showcart:hover:before,
-      .action.showcart.active:before {
-        color: @color-white;
-      }
     }
   }
 
@@ -305,7 +320,6 @@
   .customer-account-login,
   .customer-account-logout {
 
-
     // full width
     .navigation, .breadcrumbs, .page-header .header.panel, .header.content,
     .page-wrapper > .widget, .block.category.event, .top-container, .page-main {
@@ -358,6 +372,10 @@
     .minicart-wrapper .action.showcart:before {
       color: @color-white;
     }
+  }
+
+  .header.content {
+    padding-top: 0;
   }
 
   .page-header {
@@ -429,6 +447,76 @@
     .block.category.event, .top-container {
       padding-left: 5px;
       padding-right: 5px;
+    }
+
+    .page-main .page-title-wrapper {
+      background: @color-white;
+      margin: 5px 0;
+      padding: 15px;
+
+      .page-title {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  // sidebar
+  .sidebar {
+    .block {
+      background: @color-white;
+      padding: 15px;
+      margin-bottom: 5px;
+    }
+
+    .filter-no-options .filter-title:before {
+      display: none;
+    }
+  }
+
+  // category page
+  .catalog-category-view {
+
+    .sidebar-main .block:not(.active) .filter-title strong {
+      position: relative;
+      display: block;
+      width: 100%;
+      padding: 7px 0;
+      margin-bottom: 15px;
+    }
+
+    .columns {
+      padding-top: 0;
+    }
+
+    .column.main {
+
+      .products {
+        margin-top: 5px;
+        margin-bottom: 5px;
+      }
+
+      .toolbar-amount {
+        background: @color-white;
+        padding: 5px 15px;
+      }
+
+      .sorter {
+        position: relative;
+        background: @color-white;
+        padding: 10px 0;
+        width: 100%;
+        margin-left: 5px;
+        right: 0;
+        text-align: center;
+      }
+
+      .product-item-info {
+        background: @color-white;
+
+        .product-item-details {
+          padding: 0 10px 5px 10px;
+        }
+      }
     }
   }
 
@@ -530,6 +618,163 @@
 
     .links > li {
       margin: 0;
+    }
+  }
+
+  // cart page
+  .checkout-cart-index {
+
+    .columns .column.main {
+      padding-bottom: 0;
+    }
+
+    .cart-summary {
+      background: @color-white;
+      margin: 0 5px;
+
+      .block > .title {
+        border-top: none;
+      }
+    }
+
+    .cart-container .form-cart {
+      background: @color-white;
+      margin: 5px;
+      padding-bottom: 20px;
+    }
+
+    .cart-discount {
+      background: @color-white;
+      margin: 5px;
+    }
+
+    .cart-empty {
+      background: white;
+      margin: 0 5px 5px 5px;
+      padding: 15px;
+    }
+  }
+
+  // checkout
+  .checkout-index-index {
+
+    .page-header {
+      background: @color-white;
+      margin: 5px;
+      padding: 15px;
+    }
+
+    .authentication-wrapper {
+      padding-right: 15px;
+    }
+
+    .opc-estimated-wrapper {
+      background: @color-white;
+      border: none;
+      margin: 0;
+    }
+
+    .opc-wrapper {
+      .step-title {
+        background: @color-white;
+        margin: 5px 0 5px;
+        padding: 15px;
+      }
+
+      .step-content {
+        background: @color-white;
+        margin: 5px 0;
+        padding: 15px;
+      }
+
+      .form-login, .form-shipping-address, .methods-shipping {
+        background: @color-white;
+        padding: 0;
+        margin: 0;
+      }
+    }
+  }
+
+  // checkout success
+  .checkout-onepage-success {
+    background: @color-white;
+    padding: 15px;
+    margin-top: 5px;
+  }
+
+  // customer account
+  .account {
+    .page.messages {
+      margin-bottom: 0;
+    }
+
+    .column.main {
+      padding-bottom: 0;
+
+      .page-title-wrapper .order-status {
+        margin: 0;
+      }
+
+      .block,
+      .form-edit-account,
+      .form-address-edit,
+      .form-newsletter-manage,
+      .form-wishlist-items {
+        background: @color-white;
+        padding: 15px;
+        margin-bottom: 5px;
+      }
+
+      .order-details-items {
+        margin-bottom: 5px;
+        background: @color-white;
+      }
+
+      .product-items {
+        margin-left: 0;
+      }
+    }
+
+    .sidebar {
+      .block {
+        background: @color-white;
+        padding: 15px;
+        margin-bottom: 5px;
+      }
+
+      .block-collapsible-nav {
+        top: 0;
+        padding: 0;
+
+        .item.current a,
+        .item.current > strong {
+          border-color: #00A5E3;
+        }
+      }
+
+      .block-reorder {
+        display: none;
+      }
+    }
+
+    .table-wrapper {
+      background: @color-white;
+    }
+  }
+
+  .customer-account-login {
+    .block.block-customer-login,
+    .block.block-new-customer {
+      background: @color-white;
+      padding: 15px;
+      margin-bottom: 5px;
+    }
+  }
+
+  .customer-account-create {
+    .form-create-account {
+      background: @color-white;
+      padding: 15px;
     }
   }
 }
