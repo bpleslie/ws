@@ -359,15 +359,21 @@
       .label:before {
         color: @color-white;
       }
-    }
-
-    .control {
-      border: none;
 
       input {
-        border-radius: 5px;
+        margin: 40px 0 5px 0;
+      }
+
+      .control {
+        border: none;
+        background-color: #00A5E3;
+
+        input {
+          border-radius: 5px;
+        }
       }
     }
+
 
     .minicart-wrapper .action.showcart:before {
       color: @color-white;
@@ -474,7 +480,8 @@
   }
 
   // category page
-  .catalog-category-view {
+  .catalog-category-view,
+  .catalogsearch-result-index {
 
     .sidebar-main .block:not(.active) .filter-title strong {
       position: relative;
