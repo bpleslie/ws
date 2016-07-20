@@ -489,6 +489,7 @@
     }
 
     .column.main {
+      padding-bottom: 0;
 
       .products {
         margin-top: 5px;
@@ -511,10 +512,29 @@
       }
 
       .product-item-info {
-        background: @color-white;
+        width: 100%;
 
         .product-item-details {
           padding: 0 10px 5px 10px;
+        }
+      }
+
+      .product-items {
+        margin-left: 0;
+      }
+
+      .product-item {
+        padding-left: 0;
+        margin-bottom: 5px;
+        width: 49%;
+        background: @color-white;
+
+        &:nth-child(odd) {
+          margin-right: 5px;
+        }
+
+        &:nth-child(even) {
+          float: right;
         }
       }
     }
