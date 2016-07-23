@@ -79,12 +79,7 @@
             var couponOffered = sessionStorage.getItem("coupon_offered");
 
             // give the customer a coupon code if they've been on the site for over 2 min
-            if (sessionDuration > 10) {
-                // make sure we haven't already offered a code
-                if (couponOffered === 'true'){
-                    return;
-                }
-
+            if (sessionDuration > 30 && couponOffered === 'false') {
                 sessionStorage.setItem("coupon_offered", true);
 
                 // coupon popup
