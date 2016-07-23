@@ -22,3 +22,95 @@
 <?php else:?>
     </a>
 <?php endif?>
+
+<div id="popup-modal">
+</div>
+<script>
+    require([
+        'jquery',
+        'jquery/ui',
+        'Magento_Ui/js/modal/modal'
+    ], function($){
+        var ageVerified = sessionStorage.getItem("age_verified");
+        var sessionStart = sessionStorage.getItem("session_start");
+
+        if (typeof ageVerified === undefined || !ageVerified) {
+            // age verification popup
+            $(function () {
+                $('#popup-modal').modal({
+                    title: 'Are you at least 21 years old?',
+                    autoOpen: true,
+                    clickableOverlay: false,
+                    closed: function () {
+                        sessionStorage.setItem("age_verified", true);
+                        sessionStorage.setItem("session_start", Date.now());
+                        sessionStorage.setItem("coupon_offered", false);
+                    },
+                    buttons: [
+                        {
+                            text: 'Yes',
+                            attr: {
+                                'data-action': 'confirm'
+                            },
+                            'class': 'action-primary',
+                            click: function() {
+                                this.closeModal();
+                            }
+                        },
+                        {
+                            text: 'No',
+                            attr: {
+                                'data-action': 'decline'
+                            },
+                            'class': 'action-secondary',
+                            click: function() {
+                                location.href = 'http://www.norml.org/act';
+                            }
+                        }
+                    ]
+                });
+            });
+
+        } else if (typeof sessionStart !== undefined) {
+            var now = Date.now();
+
+            // convert ms to s
+            var sessionDuration = (now - sessionStart) / 1000;
+            var couponOffered = sessionStorage.getItem("coupon_offered");
+
+            // give the customer a coupon code if they've been on the site for over 2 min
+            if (sessionDuration > 10) {
+                // make sure we haven't already offered a code
+                if (couponOffered === 'true'){
+                    return;
+                }
+
+                sessionStorage.setItem("coupon_offered", true);
+
+                // coupon popup
+                $(function () {
+                    $('#popup-modal').modal({
+                        title: 'See anything you like? Here\'s 10% off!',
+                        autoOpen: true,
+                        closed: function () {
+                            //
+                        },
+                        buttons: [
+                            {
+                                text: 'Apply To Cart',
+                                attr: {
+                                    'data-action': 'confirm'
+                                },
+                                'class': 'action-primary',
+                                click: function() {
+                                    this.closeModal();
+                                }
+                            }
+                        ]
+                    });
+                });
+            }
+
+        }
+    });
+</script>
