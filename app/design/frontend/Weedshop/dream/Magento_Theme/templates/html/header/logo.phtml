@@ -25,14 +25,17 @@
 
 <div id="popup-modal">
 </div>
+<div id="coupon-popup-modal">
+    <h3>See anything you like? Here's 10% off!</h3>
+    <h4>Use Coupon Code: TENOFF</h4>
+</div>
 <script>
     require([
         'jquery',
         'jquery/ui',
         'Magento_Ui/js/modal/modal'
-    ], function($){
+    ], function($) {
         var ageVerified = sessionStorage.getItem("age_verified");
-        var sessionStart = sessionStorage.getItem("session_start");
 
         if (typeof ageVerified === undefined || !ageVerified) {
             // age verification popup
@@ -42,70 +45,79 @@
                     autoOpen: true,
                     clickableOverlay: false,
                     closed: function () {
-                        sessionStorage.setItem("age_verified", true);
-                        sessionStorage.setItem("session_start", Date.now());
-                        sessionStorage.setItem("coupon_offered", false);
+                        //
                     },
                     buttons: [
-                        {
-                            text: 'Yes',
-                            attr: {
-                                'data-action': 'confirm'
-                            },
-                            'class': 'action-primary',
-                            click: function() {
-                                this.closeModal();
-                            }
+                    {
+                        text: 'Yes',
+                        attr: {
+                        'data-action': 'confirm'
                         },
-                        {
-                            text: 'No',
-                            attr: {
-                                'data-action': 'decline'
-                            },
-                            'class': 'action-secondary',
-                            click: function() {
-                                location.href = 'http://www.norml.org/act';
-                            }
+                        'class': 'action-primary',
+                        click: function () {
+                            this.closeModal();
+                            sessionStorage.setItem("age_verified", true);
+                            sessionStorage.setItem("session_start", Date.now());
+                            sessionStorage.setItem("coupon_offered", false);
+                            offerCoupon();
                         }
+                    },
+                    {
+                        text: 'No',
+                        attr: {
+                            'data-action': 'decline'
+                        },
+                        'class': 'action-secondary',
+                        click: function () {
+                            location.href = 'http://www.norml.org/act';
+                        }
+                    }
                     ]
                 });
             });
+        } else {
+            offerCoupon();
+        }
 
-        } else if (typeof sessionStart !== undefined) {
-            var now = Date.now();
-
-            // convert ms to s
-            var sessionDuration = (now - sessionStart) / 1000;
+        function offerCoupon() {
+            var sessionStart = sessionStorage.getItem("session_start");
             var couponOffered = sessionStorage.getItem("coupon_offered");
 
-            // give the customer a coupon code if they've been on the site for over 2 min
-            if (sessionDuration > 30 && couponOffered === 'false') {
-                sessionStorage.setItem("coupon_offered", true);
+            if (typeof sessionStart !== undefined && couponOffered === 'false') {
+                var now = Date.now();
+                // convert ms to s
+                var sessionDuration = (now - sessionStart);
+                var couponThreshold = 30000;
 
-                // coupon popup
-                $(function () {
-                    $('#popup-modal').modal({
-                        title: 'See anything you like? Here\'s 10% off!',
-                        autoOpen: true,
-                        closed: function () {
-                            //
-                        },
-                        buttons: [
-                            {
-                                text: 'Apply To Cart',
-                                attr: {
-                                    'data-action': 'confirm'
-                                },
-                                'class': 'action-primary',
-                                click: function() {
-                                    this.closeModal();
-                                }
-                            }
-                        ]
-                    });
-                });
+                // give the customer a coupon code if they've been on the site for over 2 min
+                if (sessionDuration < couponThreshold) {
+                    // coupon popup
+                    setTimeout(couponPopup, couponThreshold - sessionDuration);
+                }
             }
+        }
 
+        function couponPopup() {
+            $('#coupon-popup-modal').modal({
+                title: 'Thanks for checking out our new site!',
+                autoOpen: true,
+                closed: function () {
+                    //
+                },
+                buttons: [
+                    {
+                        text: 'Apply To Cart',
+                        attr: {
+                            'data-action': 'confirm'
+                        },
+                        'class': 'action-primary',
+                        click: function () {
+                            this.closeModal();
+                            sessionStorage.setItem("coupon_offered", true);
+                        }
+                    }
+                ]
+            });
         }
     });
 </script>
