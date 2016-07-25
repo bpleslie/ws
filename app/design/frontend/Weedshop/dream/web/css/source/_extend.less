@@ -114,7 +114,9 @@
   }
 
   // media styles
-  .cms-index-index {
+  .cms-index-index,
+  .category-vaporizers,
+  .category-glass {
 
     .page-main {
       max-width: none;
@@ -150,6 +152,14 @@
 
     .widget .block-promo img {
       max-width: none
+    }
+
+    .block-promo-2columns .block-promo {
+      width: 50%;
+    }
+
+    .block-promo-3columns .block-promo {
+      width: 33.3%;
     }
 
     .block-promo {
@@ -342,7 +352,9 @@
       }
     }
 
-    .home-main {
+    .home-main,
+    .vaporizers-main,
+    .glass-main {
       background-color: gray;
       padding: 0;
 
@@ -350,7 +362,6 @@
          top: 40px;
          right: 40px;
          width: 40%;
-         background-color: yellow;
       }
 
       img {
@@ -374,6 +385,33 @@
 
     .home-product-lifestyle img {
       max-width: 100% !important
+    }
+
+    // vapes
+    .vaporizers-main img {
+      top: -400px !important;
+    }
+
+    .vaporizers-portable img {
+      position: absolute;
+      top: -100px !important;
+    }
+
+    // glass
+    .glass-hand-pipes,
+    .glass-oil-rigs {
+
+      img {
+        height: 100%;
+        max-width: none !important;
+      }
+    }
+
+    .glass-water-pipes {
+
+      .content {
+        width: 50% !important;
+      }
     }
   }
 
