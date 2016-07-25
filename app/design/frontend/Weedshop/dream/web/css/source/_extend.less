@@ -30,6 +30,10 @@
     display: none;
   }
 
+  .modal-popup .modal-title {
+    border: none;
+  }
+
   // add to cart
   .columns .sidebar-additional {
     .action.tocart {
@@ -107,6 +111,286 @@
   // yotpo reviews
   .yotpo-label {
     display: none;
+  }
+
+  // media styles
+  .cms-index-index {
+
+    .page-main {
+      max-width: none;
+      padding: 0;
+    }
+
+    .page-title {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      margin: -1px;
+      padding: 0;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      border: 0
+    }
+
+    .block-promo {
+      height: 450px;
+      padding: 10px;
+      margin-bottom: 10px;
+
+      .content {
+        top: 40px;
+        right: 40px;
+        width: 40%;
+
+        &.bg-white {
+          background-color: rgba(255, 255, 255, 0.9);
+        }
+      }
+    }
+
+    .widget .block-promo img {
+      max-width: none
+    }
+
+    .block-promo {
+      box-sizing: border-box;
+      overflow: hidden;
+      position: relative;
+      display: block;
+      width: 100%;
+      color: #333 !important
+    }
+
+    .block-promo:hover {
+      text-decoration: none
+    }
+
+    .block-promo .content {
+      display: block;
+      box-sizing: border-box;
+      position: absolute;
+      z-index: 1;
+      overflow: hidden;
+      padding: 25px 35px 35px
+    }
+
+    .block-promo .title {
+      display: block;
+      font-weight: 300;
+      font-size: 3.2rem;
+      line-height: 1.2;
+      margin-bottom: 15px
+    }
+
+    .block-promo .info {
+      display: block;
+      font-weight: 300;
+      font-size: 2.2rem;
+      margin-bottom: 20px
+    }
+
+    .block-promo .more {
+      font-size: 1.6rem
+    }
+
+    .block-promo .icon.more {
+      display: inline-block;
+      text-decoration: none
+    }
+
+    .block-promo .icon.more:after {
+      font-family: 'luma-icons';
+      content: '\e608';
+      font-size: 12px;
+      line-height: inherit;
+      color: inherit;
+      overflow: hidden;
+      speak: none;
+      font-weight: normal;
+      -webkit-font-smoothing: antialiased;
+      display: inline-block;
+      vertical-align: middle;
+      text-align: center;
+      margin: 0 0 0 5px
+    }
+
+    .block-promo .button.more {
+      font-size: 1.8rem;
+      background-image: none;
+      background: #1979c3;
+      padding: 7px 15px;
+      color: #fff;
+      border: 1px solid #1979c3;
+      cursor: pointer;
+      display: inline-block;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-size: 1.4rem;
+      font-weight: 700;
+      box-sizing: border-box;
+      vertical-align: middle;
+      border-radius: 3px;
+      text-decoration: none;
+      padding: 10px 15px
+    }
+
+    .block-promo .button.more:focus, .block-promo .button.more:active {
+      background: #006bb4;
+      border: 1px solid #006bb4;
+      color: #fff
+    }
+
+    .block-promo .button.more:hover {
+      background: #006bb4;
+      border: 1px solid #006bb4;
+      color: #fff
+    }
+
+    .block-promo .button.more.disabled, .block-promo .button.more[disabled], fieldset[disabled] .block-promo .button.more {
+      cursor: default;
+      pointer-events: none;
+      opacity: .5
+    }
+
+    .block-promo .title + .button {
+      margin-top: 10px
+    }
+
+    .block-promo sup {
+      top: -0.2em
+    }
+
+    .block-promo-2columns .content {
+      padding: 20px 25px
+    }
+
+    .block-promo-hp .bg-white, .block-promo-hp .home-top-rated .content {
+      padding: 20px
+    }
+
+    .block-promo-hp {
+      //margin: 0 -8px
+    }
+
+    .block-promo-hp .block-promo {
+      //border-left: 8px solid #fff;
+      //border-right: 8px solid #fff
+      margin: 0 0 0 10px;
+    }
+
+    .block-promo-wrapper .home-new-products {
+      float: right !important;
+      margin-right: 10px;
+    }
+
+    .block-promo-wrapper:before, .block-promo-wrapper:after {
+      content: "";
+      display: table
+    }
+
+    .block-promo-wrapper:after {
+      clear: both
+    }
+
+    .block-promo-wrapper .block-promo {
+      float: left;
+    }
+
+    .home-420-sale, .home-top-rated, .home-new-products {
+      width: 32.6%;
+      background-color: @color-gray40;
+    }
+
+    .home-product-lifestyle, .home-glass {
+      width: 65.7%;
+      background-color: #ffdd16;
+    }
+
+    .home-top-rated {
+      height: 373px
+    }
+
+    .home-top-rated .content {
+      top: 0;
+      right: 0;
+      width: 60%
+    }
+
+    .home-420-sale, .home-new-products {
+      height: 660px
+    }
+
+    .home-new-products .content {
+      top: 25px;
+      right: 25px;
+      left: 25px
+    }
+
+    .home-glass {
+      height: 276px;
+      margin-top: 10px !important;
+    }
+
+    .home-main {
+      background-color: gray;
+      padding: 10px 10px 0 10px;
+    }
+
+    .womens-main .content, .mens-main .content, .gear-main .content, .new-main .content, .home-main .content, .training-main .content, .sale-main .content {
+      top: 40px;
+      right: 40px;
+      width: 40%;
+      background-color: yellow;
+    }
+
+    .womens-t-shirts, .mens-t-shirts {
+      height: 372px
+    }
+
+    .womens-pants .content, .mens-pants .content {
+      width: 47%;
+      left: 20px;
+      top: 20px
+    }
+
+    .womens-erin, .home-product-lifestyle, .collection-erin {
+      display: table
+    }
+
+    .womens-erin .content, .home-product-lifestyle .content, .collection-erin .content, .womens-erin .image, .home-product-lifestyle .image, .collection-erin .image {
+      display: table-cell
+    }
+
+    .womens-erin .content, .home-product-lifestyle .content, .collection-erin .content {
+      position: static
+    }
+
+    .womens-erin .image, .home-product-lifestyle .image, .collection-erin .image {
+      vertical-align: bottom
+    }
+
+    .womens-erin img, .home-product-lifestyle img, .collection-erin img {
+      float: right
+    }
+
+    .home-product-lifestyle {
+      height: 276px;
+      margin-bottom: 10px !important;
+    }
+
+    .home-product-lifestyle .content {
+      width: 40%
+    }
+
+    .home-product-lifestyle .image {
+      width: 60%;
+      vertical-align: middle;
+      text-align: center;
+      padding-left: 10px
+    }
+
+    .home-product-lifestyle img {
+      max-width: 100% !important
+    }
   }
 
 // desktop styles
@@ -301,9 +585,10 @@
     }
   }
 
-  // category page
+  // category page / home page product grid
   .catalog-category-view,
-  .catalogsearch-result-index {
+  .catalogsearch-result-index,
+  .cms-index-index {
 
     // full width
     .navigation, .breadcrumbs, .page-header .header.panel, .header.content,
