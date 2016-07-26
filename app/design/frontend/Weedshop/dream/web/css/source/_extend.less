@@ -377,7 +377,6 @@
     }
 
     .home-product-lifestyle .content {
-      width: 40%;
       top: 20px !important;
       right: 20px !important;
       width: 40% !important;
@@ -410,7 +409,7 @@
     .glass-water-pipes {
 
       .content {
-        width: 50% !important;
+        width: 50%;
       }
     }
   }
@@ -514,7 +513,7 @@
     color: @color-white;
   }
 
-  .nav-1-1.first a:after {
+  .level1 a:after {
     -webkit-font-smoothing: antialiased;
     font-size: 10px;
     line-height: 18px;
@@ -550,6 +549,8 @@
   // main content
   .breadcrumbs {
     padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 0 !important;
   }
 
   // product page
@@ -1114,6 +1115,78 @@
     .form-create-account {
       background: @color-white;
       padding: 15px;
+    }
+  }
+
+  // home and main category pages
+  .cms-index-index,
+  .category-vaporizers,
+  .category-glass,
+  .category-accessories {
+
+    .page-title-wrapper {
+      display: none;
+    }
+
+    .block-promo {
+      height: 250px !important;
+
+      .content {
+        width: 90% !important;
+        height: 90%;
+        left: 5%;
+        top: 5% !important;
+      }
+
+      &.vaporizers-main {
+        height: 300px !important;
+
+        .info {
+          display: none;
+        }
+      }
+
+      &.vaporizers-main {
+
+        img {
+          top: 0 !important;
+          max-width: none;
+          height: 100%;
+        }
+      }
+
+      &.vaporizers-portable {
+
+        img {
+          top: 0 !important;
+          width: 100%;
+        }
+      }
+
+      &.glass-main,
+      &.glass-hand-pipes,
+      &.glass-water-pipes,
+      &.glass-oil-rigs {
+        height: 240px !important;
+
+        img {
+          top: 0 !important;
+          width: 100%;
+        }
+
+        .info {
+          display: none;
+        }
+      }
+
+    }
+
+    .block-promo-2columns,
+    .block-promo-3columns {
+
+      .block-promo {
+        width: 100% !important;
+      }
     }
   }
 }
