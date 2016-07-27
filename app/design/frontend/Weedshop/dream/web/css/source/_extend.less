@@ -379,7 +379,7 @@
     .home-product-lifestyle .content {
       top: 20px !important;
       right: 20px !important;
-      width: 40% !important;
+      width: 40%;
     }
 
     .home-product-lifestyle img {
@@ -393,16 +393,17 @@
 
     .vaporizers-portable img {
       position: absolute;
-      top: -100px !important;
+      bottom: 0;
     }
 
     // glass
     .glass-hand-pipes,
-    .glass-oil-rigs {
+    .glass-oil-rigs,
+    .glass-water-pipes {
 
       img {
-        height: 100%;
-        max-width: none !important;
+        min-height: 100%;
+        max-width: 100%;
       }
     }
 
@@ -646,6 +647,59 @@
     .block-collapsible-nav .item.current a,
     .block-collapsible-nav .item.current > strong {
       border-color: #00A5E3;
+    }
+  }
+}
+
+// in-between styles
+@media screen and (min-width: @screen__l) and (max-width: 1440px) {
+  .block-promo {
+
+    &.home-main,
+    &.vaporizers-main,
+    &.glass-main {
+
+      img {
+        top: 0 !important;
+      }
+    }
+
+    &.vaporizers-desktop,
+    &.vaporizers-portable {
+
+      img {
+        min-height: 100% !important;
+        max-width: 100% !important;
+      }
+    }
+  }
+}
+
+// tablet styles
+@media screen and (min-width: @screen__m) and (max-width: @screen__l) {
+
+  .block-promo {
+
+    &.home-main,
+    &.vaporizers-main,
+    &.glass-main {
+
+      img {
+        top: 0 !important;
+      }
+    }
+
+    &.vaporizers-desktop,
+    &.vaporizers-portable,
+    &.glass-hand-pipes,
+    &.glass-oil-rigs,
+    &.glass-water-pipes {
+      width: 100% !important;
+
+      img {
+        height: auto;
+        max-width: 100% !important;
+      }
     }
   }
 }
@@ -1138,6 +1192,10 @@
         top: 5% !important;
       }
 
+      &.home-main {
+        height: 325px !important;
+      }
+
       &.vaporizers-main {
         height: 300px !important;
 
@@ -1146,12 +1204,21 @@
         }
       }
 
-      &.vaporizers-main {
+      &.vaporizers-main,
+      &.home-main {
 
         img {
           top: 0 !important;
+        }
+      }
+
+      &.vaporizers-main,
+      &.home-main{
+
+        img {
           max-width: none;
-          height: 100%;
+          min-height: 100%;
+          width: 100%;
         }
       }
 
@@ -1182,11 +1249,44 @@
     }
 
     .block-promo-2columns,
-    .block-promo-3columns {
+    .block-promo-3columns,
+    .block-promo-wrapper {
 
       .block-promo {
         width: 100% !important;
+        margin: 0 !important;
+
       }
+    }
+
+    .block-promo-wrapper {
+
+      .block-promo {
+
+        img {
+          max-width: none;
+          min-height: 100%;
+          width: 100%;
+        }
+
+        .content {
+          background-color: rgba(255, 255, 255, 0.9);
+          width: 90%;
+          height: 90%;
+          left: 5%;
+        }
+      }
+
+      .home-glass {
+
+        img {
+          top: 0 !important;
+        }
+      }
+    }
+
+    #layered-filter-block {
+      display: none;
     }
   }
 }
